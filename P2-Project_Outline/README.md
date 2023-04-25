@@ -7,12 +7,30 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Our project will be an ecommerce site for selling movies. Users will be able to create accounts and log in to the application, each with their own profile page. Users will be able to browse all movies with sorting and filtering capabilities. Users will also be able to search for movies containing search terms. Movie data will be pulled from a public movie API to provide stardardization of data. Movie data will be pulled into our own internal database allowing us to add additional necessary data. Users will be able to select movies to view more information about the movie, as well as, add any movies to a shopping cart. In the shopping cart page they will be able to submit a purchase button that will return an order confirmation in window. 
+
 ### Features
-Include Features here
+User Login: Users will be able to create accounts and log in to the application. Each User will have a profile page.
+
+Search: Users will be able to search movies containing given text
+
+Filter/Sort: Users will be able to sort movies alphabetically and by price. Users will be able to filter movies by genre.
+
+Shopping Cart: Users will be able to add movies to a shopping cart and hit purchase returning an order confirmation in window. 
+
+Public API: Site will utilize data from a public API (https://www.themoviedb.org/).
+
 ### Technologies
-Include Technologies here
+Java
+Spring Boot
+MySQL
+JavaScript
+TypeScript
+React
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+Backend will have to learn how to incorporate a public API call and add to our MySQL database. We will also have to determine logic for search function. We will also look to add more advanced authentication through Spring Security. 
+
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/i6Zt931w/liftoff-team-tjovi
